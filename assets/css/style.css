@@ -71,9 +71,13 @@ form button:active {
   flex-direction: column;
 }
 
-.paragrafo-resultado{
+.paragrafo-resultado, .bad{
   background-color:#08ef42;
   padding: 10px 20px;
+}
+
+.bad{
+  background-color: #fe0c0c;
 }
 
 
